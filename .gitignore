@@ -1,0 +1,5 @@
+Vagrantfile
+iyiola.box
+ubuntu-bionic-18.04-cloudimg-console.log
+.vagrant/
+www/phpmyadmin
